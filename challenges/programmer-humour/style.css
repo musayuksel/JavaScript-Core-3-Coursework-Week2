@@ -1,0 +1,11 @@
+body {
+  background-color: rgb(112, 112, 112);
+}
+body section {
+  margin: 3rem auto;
+  overflow: hidden;
+  width: 95%;
+}
+body section img {
+  border-radius: 16px;
+}
